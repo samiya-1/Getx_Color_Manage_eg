@@ -1,4 +1,4 @@
-# getxcolormanage
+# getx color manage eg
 
 A new Flutter project.
 
